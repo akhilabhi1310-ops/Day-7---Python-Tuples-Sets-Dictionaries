@@ -1,0 +1,7 @@
+print("FROZEN SET")
+fs = frozenset([1,2,3])
+print(fs)
+print("\n-------------------------")
+print("Code Generated Successfully")
+input("Please Click Enter to Exit")
+

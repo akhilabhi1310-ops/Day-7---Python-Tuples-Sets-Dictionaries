@@ -1,0 +1,13 @@
+print("TUPLE PACKING")
+student=("Akhil",20,"Hyderabad")
+print(student)
+print("\n--------------------")
+print("TUPLE UNPACKING")
+student=("Akhil",20,"Hyderabad")
+name,age,city=student
+print(name)
+print(age)
+print(city)
+print("\n--------------------")
+print("Code Generated Successfully")
+input("Please Click Enter to Exit")

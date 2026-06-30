@@ -1,0 +1,11 @@
+#Tuple Methods
+print("1.Count() method")
+numbers=(1,2,3,2,4,2,5)
+print("count is :",numbers.count(2))
+print("\n----------------")
+print("2.Index() method")
+numbers=(10,20,30,40,50)
+print("Index is :",numbers.index(30))
+print("\n--------------------")
+print("Code Generated Successfully")
+input("Please Click Enter to Exit")
